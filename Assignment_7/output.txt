@@ -1,0 +1,30 @@
+Page Reference Sequence: [0, 7, 7, 4, 7, 7, 2, 9, 7, 0, 7, 0, 7, 6, 8, 3, 6, 6, 8, 1, 7, 6, 1, 1, 6, 4, 7, 1, 8, 6, 1, 0, 9, 4, 3, 0, 7, 6, 3, 6, 6, 6, 0, 6, 0, 5, 0, 0, 5, 2]
+FIFO Page Replacement:
+Page Faults: 25
+Page Fault Percentage: 50.0 %
+LRU Page Replacement:
+Page Faults: 22
+Page Fault Percentage: 44.0 %
+Optimal Page Replacement:
+Page Faults: 17
+Page Fault Percentage: 34.0 %
+Page Reference Sequence: [8, 4, 4, 6, 4, 4, 4, 4, 9, 4, 4, 7, 7, 4, 4, 7, 4, 4, 4, 7, 9, 4, 6, 4, 9, 6, 8, 4, 6, 1, 7, 6, 4, 3, 5, 4, 4, 1, 5, 4, 1, 1, 4, 6, 1, 8, 9, 7, 9, 9]
+FIFO Page Replacement:
+Page Faults: 18
+Page Fault Percentage: 36.0 %
+LRU Page Replacement:
+Page Faults: 15
+Page Fault Percentage: 30.0 %
+Optimal Page Replacement:
+Page Faults: 12
+Page Fault Percentage: 24.0 %
+Page Reference Sequence: [5, 9, 9, 5, 1, 5, 7, 1, 4, 5, 7, 5, 3, 8, 3, 8, 3, 9, 3, 9, 1, 5, 5, 1, 1, 7, 9, 0, 8, 0, 9, 0, 8, 5, 0, 0, 5, 5, 9, 4, 0, 0, 9, 4, 4, 7, 4, 4, 4, 4]
+FIFO Page Replacement:
+Page Faults: 19
+Page Fault Percentage: 38.0 %
+LRU Page Replacement:
+Page Faults: 16
+Page Fault Percentage: 32.0 %
+Optimal Page Replacement:
+Page Faults: 12
+Page Fault Percentage: 24.0 %
